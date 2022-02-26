@@ -27,6 +27,6 @@ model lab32
 
 equation
   der(x) = -a*x - b*y + 2*abs(sin(2*time));
-  der(y) = -c*x - h*y + abs(cos(time) + 1);
+  der(y) = -c*x*y - h*y + abs(cos(time) + 1);
 
 end lab32;
