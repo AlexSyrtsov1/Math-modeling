@@ -10,6 +10,5 @@ Initial release.
 - report
 - presentation
 - modelica source code:
-    - population
     - SIR1.mo
     - SIR2.mo
