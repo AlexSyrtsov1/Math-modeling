@@ -10,5 +10,6 @@ Initial release.
 - report
 - presentation
 - modelica source code:
+    - Malthusian_clients_growth.mo
     - Malthusian_clients_growth1.mo
     - Malthusian_clients_growth2.mo
