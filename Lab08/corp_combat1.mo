@@ -1,5 +1,5 @@
 model corp_combat
-  parameter Real p_cr = ;
+  parameter Real p_cr = 24;
   parameter Real N = 54;
   parameter Real q = 1;
   parameter Real tau_1 = 24;
